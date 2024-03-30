@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="netclan_color">#0a2e41</color>
+    <color name="netclan_color_light">#15435C</color>
+    <color name="search_border">#96A5A5</color>
+</resources>

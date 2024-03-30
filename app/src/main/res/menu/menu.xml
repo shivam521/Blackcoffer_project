@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/menu_explore"
+        android:icon="@drawable/exploration"
+        />
+
+    <item android:title="@string/menu_connections"
+        android:icon="@drawable/connection"
+
+        />
+    <item android:title="@string/menu_chat"
+        android:icon="@drawable/bubblechat"
+        />
+
+
+    <item android:title="@string/menu_contacts"
+        android:icon="@drawable/contactbook"
+        />
+
+
+    <item android:title="@string/menu_groups"
+        android:icon="@drawable/groups"
+        />
+
+
+
+</menu>

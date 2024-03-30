@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/myprofile"
+
+        />
+    <item android:title="@string/mynetwork"
+        />
+    <item android:title="@string/switchtobussiness"
+        />
+    <item android:title="@string/switchtoservice"
+
+        />
+    <item android:title="@string/datiing"
+
+        />
+    <item android:title="@string/matrimony"
+
+        />
+    <item android:title="@string/buysellrent"
+
+        />
+    <item android:title="@string/jobs"
+
+        />
+    <item android:title="@string/businesscards"
+
+        />
+    <item android:title="@string/netclangroups"
+
+        />
+</menu>
